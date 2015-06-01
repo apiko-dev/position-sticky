@@ -2,7 +2,7 @@ Package.describe({
   name: 'jss:position-sticky',
   version: '0.1.0',
   summary: 'Polyfill for CSS position:sticky feature',
-  git: '',
+  git: 'https://github.com/JSSolutions/position-sticky',
   documentation: 'README.md'
 });
 
