@@ -8,6 +8,6 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('1.1.0.2');
-  api.use('mrt:modernizr-meteor#2.6.2');
+  api.use('mrt:modernizr-meteor@2.6.2');
   api.addFiles(['position-sticky.js'], 'client');
 });
